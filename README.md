@@ -9,7 +9,7 @@
 </p>
 <h2> About me </h2>
 - 👋 Hi, I'm Ahmed Belgacem from Tunisia. </br>
-- 🎓 I'm an Artificial Intelligence, Systems, Data master student at Paris Dauphine University. </br>
+- 🎓 I'm an Artificial Intelligence, Systems, Data masters student at Paris Dauphine University. </br>
 - 💻 I'm also a Software Engineering graduate from the National Institute of Applied Sciences and Technoloy (INSAT) in Tunisia. </br>
 - 🧑‍  I'm passionate and creative with a thirst for knowledge and a hands-on approach to problem-solving </br>
 - 📷 I do a lot of photography. You can see my work on: </br>
