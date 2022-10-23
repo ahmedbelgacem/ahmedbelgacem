@@ -12,9 +12,9 @@
 - 🎓 I'm an Artificial Intelligence, Systems, Data master student at Paris Dauphine University. </br>
 - 💻 I'm also a Software Engineering graduate from the National Institute of Applied Sciences and Technoloy (INSAT) in Tunisia. </br>
 - 🧑‍  I'm passionate and creative with a thirst for knowledge and a hands-on approach to problem-solving </br>
-- 📷 I do a lot of photography. You can see my work: </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - On my instagram profil: https://www.instagram.com/belgadreamsbig/ </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - On my personal website: https://belgadreamsbig.com </br>
+- 📷 I do a lot of photography. You can see my work on: </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - My instagram profil: https://www.instagram.com/belgadreamsbig/ </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - My personal website: https://belgadreamsbig.com </br>
 - ❤️ I have a big interest in AI, Photography, Cinema and Music. </br>
 - 👀 I’m currently looking for new opportunities in AI and Data Science. I also want to collaborate on open source projects </br>
 - 📫 How to reach me: </br>
