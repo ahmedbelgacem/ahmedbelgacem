@@ -4,12 +4,12 @@
 </h1>
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&background=FFFD5300&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Data+Science+Student.;Software+Engineering+Graduate.;Photographer+and+Cinema+lover." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&background=FFFD5300&center=true&vCenter=true&multiline=true&width=435&height=100&lines=AI+Engineer.;Photographer+and+Cinema+lover." alt="Typing SVG" />
 </a>
 </p>
 <h2> About me </h2>
 - 👋 Hi, I'm Ahmed Belgacem from Tunisia. </br>
-- 🎓 I'm a Big Data, Artificial Intelligence masters student at Paris Dauphine University. </br>
+- 🎓 I'm a Big Data, Artificial Intelligence masters graduate from Paris Dauphine University. </br>
 - 💻 I'm also a Software Engineering graduate from the National Institute of Applied Sciences and Technoloy (INSAT) in Tunisia. </br>
 - 🧑‍  I'm passionate and creative with a thirst for knowledge and a hands-on approach to problem-solving </br>
 - 📷 I do a lot of photography. You can see my work on: </br>
