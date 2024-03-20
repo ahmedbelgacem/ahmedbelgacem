@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&background=FFFD5300&center=true&vCenter=true&multiline=true&width=435&height=100&lines=AI+Engineer.;Photographer+and+Cinema+lover." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&background=FFFD5300&center=true&vCenter=true&multiline=true&width=435&height=100&lines=AI+Research+Engineer.;Photographer+and+Cinema+lover." alt="Typing SVG" />
 </a>
 </p>
 <h2> About me </h2>
@@ -14,9 +14,9 @@
 - 🧑‍  I'm passionate and creative with a thirst for knowledge and a hands-on approach to problem-solving </br>
 - 📷 I do a lot of photography. You can see my work on: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - My instagram profil: https://www.instagram.com/belgadreamsbig/ </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - My personal website: https://belgadreamsbig.com </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - My personal website: https://ahmedbelgacem.com </br>
 - ❤️ I have a big interest in AI, Photography, Cinema and Music. </br>
-- 👀 I’m currently looking for new opportunities in AI and Data Science. I also want to collaborate on open source projects </br>
+- 👀 I'm looking to collaborate on open source projects </br>
 - 📫 How to reach me: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Email: ahmedbelgaacem@gmail.com </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp - Linkedin: https://www.linkedin.com/in/ahmedbelgacem/ </br>
