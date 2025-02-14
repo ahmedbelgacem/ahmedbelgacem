@@ -9,7 +9,7 @@
 </p>
 <h2> About me </h2>
 - 👋 Hi, I'm Ahmed Belgacem from Tunisia. </br>
-- 🧑‍💼 I'm currently working as an AI Researcher at Multitel in Belgium, focusing on Fine-Grained Visual Classification for the threat   detection component in the Resource management for Unmanned Distributed Intelligent System (RUDIS) project. 
+- 🧑‍💼 I'm currently working as an AI Researcher at Multitel in Belgium, focusing on Fine-Grained Visual Classification for the threat   detection component in the Resource management for Unmanned Distributed Intelligent System (RUDIS) project. </br>
 - 🎓 I'm a Big Data, Artificial Intelligence masters graduate from Paris Dauphine University. </br>
 - 💻 I'm also a Software Engineering graduate from the National Institute of Applied Sciences and Technoloy (INSAT) in Tunisia. </br>
 - 🧑‍  I'm passionate and creative with a thirst for knowledge and a hands-on approach to problem-solving </br>
